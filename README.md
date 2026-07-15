@@ -1,27 +1,27 @@
 # Food Delivery Website
 
-A responsive Food Delivery Website built using HTML, CSS, and JavaScript. The project provides a modern user interface where users can explore food items, view menus, and experience a clean and responsive food ordering website design.
+A beginner-friendly static Food Delivery Website built using HTML, CSS, and JavaScript. This project showcases a modern and responsive landing page for a food delivery service, focusing on clean UI design and basic front-end development concepts.
 
 ---
 
 ## Overview
 
-This project is a front-end food delivery website developed to practice responsive web design and JavaScript functionality. The website features an attractive layout with smooth navigation and an intuitive user experience.
+This project was created as one of my early web development projects to practice HTML, CSS, and JavaScript. It demonstrates responsive design principles, page layout, navigation, and basic interactivity without using any backend or database.
 
 ---
 
 ## Features
 
-- Responsive design for desktop, tablet, and mobile devices
-- Modern landing page
+- Responsive website layout
+- Modern landing page design
+- Navigation bar
+- Hero section
 - Food menu section
-- Popular dishes section
 - About section
 - Customer reviews section
 - Contact section
-- Smooth scrolling navigation
-- Interactive JavaScript functionality
-- Clean and user-friendly interface
+- Smooth scrolling
+- Mobile-friendly design
 
 ---
 
@@ -29,7 +29,7 @@ This project is a front-end food delivery website developed to practice responsi
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ---
 
@@ -57,40 +57,36 @@ food-delivery-website/
 git clone https://github.com/YOUR_USERNAME/food-delivery-website.git
 ```
 
-### Navigate to the Project
-
-```bash
-cd food-delivery-website
-```
-
 ### Run the Project
 
-Open `index.html` in your preferred web browser.
+Open the `index.html` file in your web browser.
+
+No additional installation or setup is required.
 
 ---
 
 ## Screenshots
 
-Add screenshots of the following pages:
+Add screenshots of your website here.
 
 - Home Page
-- Food Menu
+- Menu Section
 - About Section
-- Customer Reviews
 - Contact Section
 
 ---
 
 ## Learning Outcomes
 
-This project helped in understanding:
+This project helped me learn:
 
 - HTML page structure
-- CSS Flexbox and Grid
-- Responsive Web Design
-- JavaScript DOM Manipulation
-- Event Handling
-- Navigation and Layout Design
+- CSS styling
+- Flexbox and Grid layouts
+- Responsive web design
+- Basic JavaScript
+- DOM manipulation
+- Website layout design
 
 ---
 
@@ -99,19 +95,11 @@ This project helped in understanding:
 - Food search functionality
 - Category filtering
 - Shopping cart
-- Online ordering system
+- Online ordering
 - User authentication
-- Payment gateway integration
-- Backend API integration
+- Backend integration
+- Payment gateway
 - Database support
-- Order tracking
-- Admin dashboard
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -119,8 +107,8 @@ This project is licensed under the MIT License.
 
 **Shaik Moukhil**
 
-B.Tech Computer Science & Data Science
+B.Tech – Computer Science & Data Science
 
-GitHub: https://github.com/moukhil
+GitHub: https://github.com/YOUR_USERNAME
 
-LinkedIn: https://linkedin.com/in/shaik-moukhil
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
